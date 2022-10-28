@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StudentPlanner_AndroidApp</string>
+    <string name="termsCapsText">TERMS</string>
+    <string name="student_plannerTitleText">Student Planner</string>
+    <string name="assessmentsCapsText">ASSESSMENTS</string>
+    <string name="coursesCapsText">COURSES</string>
 </resources>
